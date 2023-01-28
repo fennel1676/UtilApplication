@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Serial.cpp
+Serial.cpp(654): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+Serial.cpp(755): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  SerialCommunication.cpp
+     Creating library D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\x64\Release\SerialCommunication.lib and object D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\x64\Release\SerialCommunication.exp
+  Generating code
+  All 157 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SerialCommunication.vcxproj -> D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\x64\Release\SerialCommunication.dll
+  SerialCommunication.vcxproj -> D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\x64\Release\SerialCommunication.pdb (Full PDB)

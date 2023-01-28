@@ -1,0 +1,4 @@
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailAnalysys\bin\Debug\LogMailAnalysys.exe
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailAnalysys\bin\Debug\LogMailAnalysys.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailAnalysys\obj\Debug\LogMailAnalysys.exe
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailAnalysys\obj\Debug\LogMailAnalysys.pdb

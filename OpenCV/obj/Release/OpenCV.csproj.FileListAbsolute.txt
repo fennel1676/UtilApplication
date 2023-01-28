@@ -1,0 +1,49 @@
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\bin\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\bin\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\bin\Release\OpenCvSharp.Blob.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\bin\Release\OpenCvSharp.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\bin\Release\OpenCvSharp.Extensions.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\bin\Release\OpenCvSharp.UserInterface.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\obj\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\obj\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\obj\Release\OpenCV.csprojResolveAssemblyReference.cache
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\OpenCV\bin\Release\AKI.OpenCV.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\OpenCV\bin\Release\AKI.OpenCV.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\OpenCV\obj\Release\AKI.OpenCV.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\OpenCV\obj\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\bin\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\bin\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\bin\Release\OpenCvSharp.Blob.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\bin\Release\OpenCvSharp.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\bin\Release\OpenCvSharp.Extensions.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\bin\Release\OpenCvSharp.UserInterface.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\obj\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\obj\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\OpenCV\obj\Release\OpenCV.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication1 (3)\Output\AKI.OpenCV.dll
+E:\WindowsFormsApplication1 (3)\Output\AKI.OpenCV.pdb
+E:\WindowsFormsApplication1 (3)\OpenCV\obj\Release\AKI.OpenCV.dll
+E:\WindowsFormsApplication1 (3)\OpenCV\obj\Release\AKI.OpenCV.pdb
+E:\WindowsFormsApplication1 (3)\OpenCV\obj\Release\OpenCV.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\OpenCV\obj\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\OpenCV\obj\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\OpenCV\obj\Release\OpenCV.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\OpenCV\obj\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\OpenCV\obj\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\OpenCV\obj\Release\OpenCV.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\OpenCV\obj\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\OpenCV\obj\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\OpenCV\obj\Release\OpenCV.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\OpenCV\obj\Release\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\OpenCV\obj\Release\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\OpenCV\obj\Release\OpenCV.csprojResolveAssemblyReference.cache

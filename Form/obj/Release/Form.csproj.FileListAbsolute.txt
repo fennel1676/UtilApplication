@@ -1,0 +1,103 @@
+D:\02 프로젝트\라이브러리\라이브러리\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+D:\02 프로젝트\라이브러리\라이브러리\Form\obj\Release\Form.csproj.GenerateResource.Cache
+D:\02 프로젝트\라이브러리\라이브러리\Output\AKI.Form.dll
+D:\02 프로젝트\라이브러리\라이브러리\Output\AKI.Form.pdb
+D:\02 프로젝트\라이브러리\라이브러리\Form\obj\Release\AKI.Form.dll
+D:\02 프로젝트\라이브러리\라이브러리\Form\obj\Release\AKI.Form.pdb
+D:\02 프로젝트\라이브러리\라이브러리\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\Form.csproj.GenerateResource.Cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Form\obj\Release\AKI.Form.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.Form.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.Form.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\Form.csproj.GenerateResource.Cache
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Form\obj\Release\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\Form.csproj.GenerateResource.Cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Form\obj\Release\AKI.Form.pdb
+E:\WindowsFormsApplication1 (3)\Output\AKI.Form.dll
+E:\WindowsFormsApplication1 (3)\Output\AKI.Form.pdb
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\Form.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.dll
+E:\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\Form.csproj.GenerateResource.Cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\Form.csproj.GenerateResource.Cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Form\obj\Release\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\Form.csproj.GenerateResource.Cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Form\obj\Release\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.Form.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\Form.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.Ethernet.PortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.Ethernet.IpPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.Serial.ComPortBaudrateSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.Serial.SerialSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.Serial.ComPortSettingForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.Splash.SplashForm.resources
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\Form.csproj.GenerateResource.Cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Form\obj\Release\AKI.Form.pdb

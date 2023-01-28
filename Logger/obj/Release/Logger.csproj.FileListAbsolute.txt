@@ -1,0 +1,40 @@
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Logger\obj\Release\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Logger\obj\Release\AKI.Logger.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.Logger.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.Logger.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Logger\obj\Release\AKI.Logger.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Logger\obj\Release\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Logger\obj\Release\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Logger\obj\Release\AKI.Logger.pdb
+E:\WindowsFormsApplication1 (3)\Output\AKI.Logger.dll
+E:\WindowsFormsApplication1 (3)\Output\AKI.Logger.pdb
+E:\WindowsFormsApplication1 (3)\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication1 (3)\Logger\obj\Release\AKI.Logger.dll
+E:\WindowsFormsApplication1 (3)\Logger\obj\Release\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Logger\obj\Release\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Logger\obj\Release\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Logger\obj\Release\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Logger\obj\Release\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Logger\obj\Release\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Logger\obj\Release\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.Logger.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Logger\obj\Release\AKI.Logger.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Logger\obj\Release\AKI.Logger.pdb

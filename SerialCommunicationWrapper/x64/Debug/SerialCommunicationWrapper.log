@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Stdafx.cpp
+  AssemblyInfo.cpp
+  SerialCommunicationWrapper.cpp
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  SerialCommunicationWrapper.vcxproj -> D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\\Output\SerialCommunicationWrapper.dll
+  SerialCommunicationWrapper.vcxproj -> D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\\Output\SerialCommunicationWrapper.pdb (Partial PDB)

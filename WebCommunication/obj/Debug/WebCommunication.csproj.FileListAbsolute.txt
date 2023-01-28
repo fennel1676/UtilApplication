@@ -1,0 +1,9 @@
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\WebCommunication\bin\Debug\AKI.Communication.WebCommunication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\WebCommunication\bin\Debug\AKI.Communication.WebCommunication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\WebCommunication\obj\Debug\AKI.Communication.WebCommunication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\WebCommunication\obj\Debug\AKI.Communication.WebCommunication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\WebCommunication\bin\Debug\AKI.Communication.WebCommunication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\WebCommunication\bin\Debug\AKI.Communication.WebCommunication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\WebCommunication\obj\Debug\WebCommunication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\WebCommunication\obj\Debug\AKI.Communication.WebCommunication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\WebCommunication\obj\Debug\AKI.Communication.WebCommunication.pdb

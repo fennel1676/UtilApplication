@@ -1,0 +1,11 @@
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\bin\Debug\LogMailSender.exe
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\bin\Debug\LogMailSender.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\bin\Debug\AKI.Util.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\bin\Debug\AKI.Win32.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\bin\Debug\AKI.Util.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\bin\Debug\AKI.Win32.pdb
+D:\01 회사 문서\프로젝트\09. 푸딩\운영 클라이언트\DeviceManagement_pni_554\LogMailSender.exe
+D:\01 회사 문서\프로젝트\09. 푸딩\운영 클라이언트\DeviceManagement_pni_554\LogMailSender.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\obj\Debug\LogMailSender.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\obj\Debug\LogMailSender.exe
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\LogMailSender\obj\Debug\LogMailSender.pdb

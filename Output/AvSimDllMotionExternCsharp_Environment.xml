@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ENVIRONMENT_PARAMETER xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<COMMUNICATION_TYPE TYPE="1" />
+	<RESPONSE_TIMEOUT LIMIT_TIME="500" />
+	<COM_PORT COM_PORT="0" />
+	<UDP_PARAMETER IP="192.168.1.1" PORT="4001" KEEPALIVE="true" />
+	<OS_TYPE TYPE="Android" />
+</ENVIRONMENT_PARAMETER>

@@ -1,0 +1,52 @@
+D:\02 프로젝트\라이브러리\라이브러리\Communication\bin\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리\라이브러리\Communication\bin\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리\라이브러리\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리\라이브러리\Output\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리\라이브러리\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리\라이브러리\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리\라이브러리\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\라이브러리\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\라이브러리\Output\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\라이브러리\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\라이브러리\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\라이브러리\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.Communication.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.Communication.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.Communication.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Communication\obj\Debug\AKI.Communication.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Output\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (2)\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Communication\obj\Debug\AKI.Communication.pdb
+E:\프로젝트\WindowsFormsApplication1 (4)\Output\AKI.Communication.dll
+E:\프로젝트\WindowsFormsApplication1 (4)\Output\AKI.Communication.pdb
+E:\프로젝트\WindowsFormsApplication1 (4)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+E:\프로젝트\WindowsFormsApplication1 (4)\Communication\obj\Debug\AKI.Communication.dll
+E:\프로젝트\WindowsFormsApplication1 (4)\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Communication\obj\Debug\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Output\AKI.Communication.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Communication\obj\Debug\AKI.Communication.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (6)\Communication\obj\Debug\AKI.Communication.pdb

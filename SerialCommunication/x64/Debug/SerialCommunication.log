@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  dllmain.cpp
+  SerialCommunication.cpp
+  Serial.cpp
+d:\02 프로젝트\라이브러리cli\windowsformsapplication1 (3)\serialcommunication\serial.cpp(654): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\02 프로젝트\라이브러리cli\windowsformsapplication1 (3)\serialcommunication\serial.cpp(755): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+     Creating library D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\\Output\SerialCommunication.lib and object D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\\Output\SerialCommunication.exp
+  SerialCommunication.vcxproj -> D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\\Output\SerialCommunication.dll
+  SerialCommunication.vcxproj -> D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\\Output\SerialCommunication.pdb (Partial PDB)

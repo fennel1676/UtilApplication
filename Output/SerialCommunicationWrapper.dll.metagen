@@ -1,0 +1,47 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly SerialCommunicationWrapper, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class SerialCommunicationWrapper.WSerialCommunication: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    Free(): PrivateScope, Public, HideBySig
+    CheckPort(String): PrivateScope, Public, HideBySig
+    Open(String, UInt32 IsLong, UInt32 IsLong, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    Close(): PrivateScope, Public, HideBySig
+    Setup(Int32, Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    SetEventChar(Byte, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    SetMask(UInt32 IsLong): PrivateScope, Public, HideBySig
+    WaitEvent(_OVERLAPPED*, UInt32 IsLong): PrivateScope, Public, HideBySig
+    SetupHandshaking(Int32): PrivateScope, Public, HideBySig
+    SetupReadTimeouts(Int32): PrivateScope, Public, HideBySig
+    GetBaudrate(): PrivateScope, Public, HideBySig
+    GetDataBits(): PrivateScope, Public, HideBySig
+    GetParity(): PrivateScope, Public, HideBySig
+    GetStopBits(): PrivateScope, Public, HideBySig
+    GetHandshaking(): PrivateScope, Public, HideBySig
+    GetEventMask(): PrivateScope, Public, HideBySig
+    GetEventChar(): PrivateScope, Public, HideBySig
+    Write(IntPtr, UInt64, UInt32*, _OVERLAPPED*, UInt32 IsLong): PrivateScope, Public, HideBySig
+    Read(Void*, UInt64, UInt32*, _OVERLAPPED*, UInt32 IsLong): PrivateScope, Public, HideBySig
+    Break(): PrivateScope, Public, HideBySig
+    GetEventType(): PrivateScope, Public, HideBySig
+    GetError(): PrivateScope, Public, HideBySig
+    GetCommHandle(): PrivateScope, Public, HideBySig
+    IsOpen(): PrivateScope, Public, HideBySig
+    GetLastError(): PrivateScope, Public, HideBySig
+    GetCTS(): PrivateScope, Public, HideBySig
+    GetDSR(): PrivateScope, Public, HideBySig
+    GetRing(): PrivateScope, Public, HideBySig
+    GetRLSD(): PrivateScope, Public, HideBySig
+    Purge(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig

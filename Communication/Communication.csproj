@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{22727D31-D301-49E0-B480-2C03F71FCBCB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AKI.Communication</RootNamespace>
+    <AssemblyName>AKI.Communication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Output\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ethernet\ClientTcp.cs" />
+    <Compile Include="Ethernet\ServerAsyncTcp.cs" />
+    <Compile Include="Ethernet\ServerTcp.cs" />
+    <Compile Include="FTP\FTPClient.cs" />
+    <Compile Include="FTP\FTPDirectory.cs" />
+    <Compile Include="FTP\FTPEnum.cs" />
+    <Compile Include="FTP\FTPFileInfo.cs" />
+    <Compile Include="ICMP\IcmpBase.cs" />
+    <Compile Include="Remoting\DataComServer\DataServer.cs" />
+    <Compile Include="Remoting\ProcessComLib\ProcessCom.cs" />
+    <Compile Include="Remoting\ProcessComLib\ProcessReceiveDataEventArgs.cs" />
+    <Compile Include="Remoting\RemoteComLib\DataEventRepeator.cs" />
+    <Compile Include="Remoting\RemoteComLib\IDataReceiver.cs" />
+    <Compile Include="Remoting\RemoteComLib\ReceiveDataEventArgs.cs" />
+    <Compile Include="Util\GeneralPacketWrapper.cs" />
+    <Compile Include="Util\Ping.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serial\Enum.cs" />
+    <Compile Include="Serial\Serial.cs" />
+    <Compile Include="Util\MagicPacket.cs" />
+    <Compile Include="Util\NetworkInfoUtil.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Util\Util.csproj">
+      <Project>{86d057f8-8293-4827-a070-a86ac17a62cd}</Project>
+      <Name>Util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Win32\Win32.csproj">
+      <Project>{6CE5B01A-21BD-4B13-BD7A-ED3C2DDE0814}</Project>
+      <Name>Win32</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

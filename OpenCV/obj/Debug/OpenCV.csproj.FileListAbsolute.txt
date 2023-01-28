@@ -1,0 +1,36 @@
+D:\02 프로젝트\라이브러리\라이브러리\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리\라이브러리\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리\라이브러리\OpenCV\obj\Debug\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리\라이브러리\OpenCV\obj\Debug\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리\라이브러리\OpenCV\obj\Debug\OpenCV.csprojResolveAssemblyReference.cache
+D:\02 프로젝트\라이브러리CLI\라이브러리\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\라이브러리\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\라이브러리\OpenCV\obj\Debug\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\라이브러리\OpenCV\obj\Debug\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\obj\Debug\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\obj\Debug\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1\OpenCV\obj\Debug\OpenCV.csprojResolveAssemblyReference.cache
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.OpenCV.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\Output\AKI.OpenCV.pdb
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\OpenCV\obj\Debug\OpenCV.csprojResolveAssemblyReference.cache
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\OpenCV\obj\Debug\AKI.OpenCV.dll
+C:\Users\aki\Desktop\Project\WindowsFormsApplication1\OpenCV\obj\Debug\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\OpenCV\obj\Debug\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (3)\OpenCV\obj\Debug\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\OpenCV\obj\Debug\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\OpenCV\obj\Debug\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (4)\OpenCV\obj\Debug\OpenCV.csprojResolveAssemblyReference.cache
+E:\프로젝트\WindowsFormsApplication1 (4)\Output\AKI.OpenCV.dll
+E:\프로젝트\WindowsFormsApplication1 (4)\Output\AKI.OpenCV.pdb
+E:\프로젝트\WindowsFormsApplication1 (4)\OpenCV\obj\Debug\AKI.OpenCV.dll
+E:\프로젝트\WindowsFormsApplication1 (4)\OpenCV\obj\Debug\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\Output\AKI.OpenCV.pdb
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\OpenCV\obj\Debug\AKI.OpenCV.dll
+D:\02 프로젝트\라이브러리CLI\WindowsFormsApplication1 (5)\OpenCV\obj\Debug\AKI.OpenCV.pdb
